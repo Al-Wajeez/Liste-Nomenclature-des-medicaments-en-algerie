@@ -37,3 +37,5 @@ LISTE DES PRODUITS PHARMACEUTIQUES A USAGE DE LA MEDECINE HUMAINE QUI N'ONT PAS 
 ###### Direction des produits pharmaceutiques - sous direction de l'enregistrement
 
 [Le lien Direct](https://www.sante.gov.dz/)
+
+Par: **HADDADI ABDRAOUF**
